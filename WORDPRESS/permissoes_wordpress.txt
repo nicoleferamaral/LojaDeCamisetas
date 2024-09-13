@@ -1,0 +1,13 @@
+Administrador – Tem capacidade de acesso a quase todas as funcionalidades de administração.
+
+Editor – Tem capacidade de gerenciar posts de blog e páginas, bem como gerenciar posts de outros usuários, etc.
+
+Autor – Tem capacidade de publicar e gerenciar suas próprias postagens no blog.
+
+Colaborador – Tem capacidade de gerenciar suas posts, mas não publicá-las.
+
+Assinante – Alguém que só tem capacidade de gerir seu próprio perfil. Muito utilizado quado existe conteúdos que exigem cadastro no site para serem visualizados
+
+Após instalar o WordPress, uma conta de Super Admin com todas as Capacidades é criada automaticamente.
+
+O Super Admin é uma função específica para o recurso Multisites do WordPress. Ele tem acesso à administração da rede do blog, possuindo o controle de toda a rede.
